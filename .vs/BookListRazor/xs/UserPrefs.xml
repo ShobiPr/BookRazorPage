@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{1E37D0D1-30E6-4649-881B-4F8946B20251}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Pages/BookList/Index.cshtml.cs">
+    <Files>
+      <File FileName="BookListRazor/Pages/BookList/Index.cshtml" Line="46" Column="41" />
+      <File FileName="BookListRazor/Pages/BookList/Index.cshtml.cs" Line="28" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookListRazor" expanded="True">
+            <Node name="BookListRazor" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="BookList" expanded="True">
+                  <Node name="Index.cshtml" expanded="True">
+                    <Node name="Index.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookListRazor PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shobi/Projects/BookListRazor/BookListRazor/BookListRazor.csproj" relfile="BookListRazor/BookListRazor.csproj" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
