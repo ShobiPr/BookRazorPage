@@ -17,5 +17,6 @@
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Pages\BookList\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 </Project>

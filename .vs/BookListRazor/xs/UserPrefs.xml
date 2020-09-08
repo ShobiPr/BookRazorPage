@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{1E37D0D1-30E6-4649-881B-4F8946B20251}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Pages/BookList/Index.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Pages/BookList/Upsert.cshtml.cs">
     <Files>
-      <File FileName="BookListRazor/Pages/BookList/Index.cshtml" Line="46" Column="41" />
-      <File FileName="BookListRazor/Pages/BookList/Index.cshtml.cs" Line="28" Column="22" />
+      <File FileName="BookListRazor/Pages/BookList/Upsert.cshtml" Line="14" Column="20" />
+      <File FileName="BookListRazor/Pages/BookList/Upsert.cshtml.cs" Line="44" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookListRazor" expanded="True">
             <Node name="BookListRazor" expanded="True">
-              <Node name="Migrations" expanded="True" />
-              <Node name="Model" expanded="True" />
+              <Node name="Controllers" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="BookList" expanded="True">
-                  <Node name="Index.cshtml" expanded="True">
-                    <Node name="Index.cshtml.cs" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
+                  <Node name="Upsert.cshtml" expanded="True">
+                    <Node name="Upsert.cshtml.cs" selected="True" />
                   </Node>
                 </Node>
                 <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
