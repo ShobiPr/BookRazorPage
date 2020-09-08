@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using BookListRazor.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookListRazor.Pages.BookList
 {
@@ -49,7 +50,7 @@ namespace BookListRazor.Pages.BookList
                 }
                 else
                 {
-                    _db.Book.Update(Book); 
+                    _db.Book.Update(Book);  
                 }
 
                 await _db.SaveChangesAsync();
