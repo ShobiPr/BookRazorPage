@@ -45,7 +45,11 @@ namespace BookListRazor.Pages.BookList
             {
                 if(Book.Id == 0)
                 {
-
+                    _db.Book.Add(Book);
+                }
+                else
+                {
+                    _db.Book.Update(Book); 
                 }
 
                 await _db.SaveChangesAsync();
